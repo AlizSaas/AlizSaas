@@ -1,16 +1,90 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdiaziz Ali
 
-<!--
-**AlizSaas/AlizSaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Engineer | TypeScript Developer | Lifelong Learner
 
-Here are some ideas to get you started:
+I enjoy building scalable backend systems and modern web applications using TypeScript and Node.js.
+I'm passionate about distributed systems, 
+cloud infrastructure, and turning ideas into production-ready software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Currently Working On
+
+- 🏗️ Building production-ready backend services
+- 🔐 Authentication & authorization systems (JWT, Refresh Tokens)
+- 🐳 Dockerizing applications
+- 🧩 Learning NestJS & Microservices
+- ☸️ Exploring Kubernetes
+- 📚 Studying Data Structures, Algorithms & System Design
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+- TypeScript
+- JavaScript
+- SQL
+
+### Frontend
+- React
+- Next.js
+- HTML
+- CSS
+- Tailwind CSS
+- Tanstack 
+
+### Backend
+- Node.js
+- Express
+- NestJS
+- Prisma
+- PostgreSQL
+- REST APIs
+- Drizzle
+
+### DevOps & Tools
+- Docker
+- Kubernetes *(Learning)*
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+## 🎯 Goals
+
+- Become a Backend Software Engineer
+- Build scalable SaaS products
+- Master distributed systems
+- Contribute to open source
+- Keep learning every day
+
+---
+
+## ⚡ A Little About Me
+
+Outside of coding, you'll usually find me:
+
+⚽ Playing soccer
+
+🏍️ Riding motorcycles
+
+📖 Learning new technologies
+
+💡 Building side projects
+
+I enjoy solving challenging problems, collaborating with others, and writing clean, maintainable code.
+
+---
+
+## 📫 Reach Me
+
+- GitHub: github.com/yourusername
+- LinkedIn: linkedin.com/in/yourlinkedin
+- Portfolio: yourwebsite.com
+
+---
+
+> "Always learning. Always building."
