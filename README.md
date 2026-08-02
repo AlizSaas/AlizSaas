@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Ali a software developer based in Kentucky.
+I'm Ali a developer based in Kentucky.
 
 I enjoy building backend systems and modern web applications with TypeScript and Node.js.
 
