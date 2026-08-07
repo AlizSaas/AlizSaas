@@ -4,9 +4,9 @@ I'm Ali a developer based in Kentucky.
 
 I enjoy building backend systems and modern web applications with TypeScript and Node.js.
 
-Right now I'm learning Docker, NestJS, Kubernetes, and system design while building projects that help me become a better engineer.
+Right now I'm learning Docker, and system design while building projects that help me become a better engineer.
 
-My main tech stack is TypeScript, Node.js, Express, React, PostgreSQL, and Docker.
+My main tech stack is TypeScript, Node.js, Express, React, PostgreSQL, and Docker and Tan stack ecosystem and next js.
 
 I've always been curious about how things work, and that curiosity is what got me into programming.
 
